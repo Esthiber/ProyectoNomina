@@ -1,0 +1,11 @@
+3323456789;Clemencio Romero;00001;8941461;Pago Nomina
+4567890123;Ceferino Nieves;00002;9786504;Pago Nomina
+4323456789;Joaquina Ojeda;00003;6916334;Pago Nomina
+3456789012;Rosendo Muñoz;00004;8081840;Pago Nomina
+4623456789;Delfin Cardenas;00005;3531765;Pago Nomina
+9012345678;Benedicto Rivera;00006;3245668;Pago Nomina
+1023456789;Jeremías Figueroa;00007;17300082;Pago Nomina
+1623456789;Brígida Maldonado;00008;11003888;Pago Nomina
+2923456789;Jeremías Cruz;00009;7481880;Pago Nomina
+2723456789;Teodoro Ortiz;00010;15504868;Pago Nomina
+6449577665;Esthiber Valentin;00011;752720;Pago Nomina
