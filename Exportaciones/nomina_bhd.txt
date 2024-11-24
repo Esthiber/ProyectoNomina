@@ -7,5 +7,3 @@
 1023456789;Jeremías Figueroa;00007;17300082;Pago Nomina
 1623456789;Brígida Maldonado;00008;11003888;Pago Nomina
 2923456789;Jeremías Cruz;00009;7481880;Pago Nomina
-2723456789;Teodoro Ortiz;00010;15504868;Pago Nomina
-6449577665;Esthiber Valentin;00011;752720;Pago Nomina

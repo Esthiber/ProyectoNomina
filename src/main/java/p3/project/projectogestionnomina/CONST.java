@@ -12,8 +12,18 @@ public final class CONST {
     public static final CuentaBancaria CUENTA_ORIGEN = new CuentaBancaria("Cuenta Corriente", "1234567890", "DOP", "40213918564");
     public static final String EXPORT_BANRESERVAS = "nomina_banreservas.txt";
     public static final String EXPORT_BHD = "nomina_bhd.txt";
+    public static final String EXPORT_POPULAR = "nomina_popular.txt";
     public static final float ARS = 3.04f;
     public static final float AFP = 2.87f;
+    public static final String COMPANY_ID = "40213918564";
+    public static final String EFFECTIVE_DATE = "20241124";
+    public static final String COMPANY_NAME = "SuperMercado La Suertuda";
+    public static final int HEADER_SEQUENCE = 1;
+    public static final String EMAIL = "lasuertuda@market.net";
+    public static final String SEND_DATE = "20241125";
+    public static final String SEND_TIME = "2305" ;
+
+
 
     public static final String[] FUNNY_NAMES = new String[]{
             "Esthiber", "Cristofebril", "Yasnovia", "Fulanito", "Menganito",
@@ -195,7 +205,6 @@ public final class CONST {
             new CuentaBancaria("Cuenta Ahorros", "4823456789", "DOP", ""),
             new CuentaBancaria("Cuenta Ahorros", "4923456789", "DOP", "")
     };
-
 
 
 

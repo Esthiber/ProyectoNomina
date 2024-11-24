@@ -242,18 +242,24 @@ public class MainController {
 
     @FXML
     void ExportarBHD_OnAction(ActionEvent event) {
-        bd_empleados.GuardarBHD(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados());
 
+        if (bd_empleados.GuardarBHD(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados())) {
+            System.out.println("...");
+        }
     }
 
     @FXML
     void ExportarBanReservas_OnAction(ActionEvent event) {
-        bd_empleados.GuardarBanReservas(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados());
+        if(bd_empleados.GuardarBanReservas(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados())){
+            System.out.println("...");
+        }
     }
 
     @FXML
     void ExportarPopular_OnAction(ActionEvent event) {
-        bd_empleados.GuardarPopular(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados());
+        if(bd_empleados.GuardarPopular(CONST.CUENTA_ORIGEN, gestorEmpleados.getEmpleados())){
+            System.out.println("...");
+        }
     }
 
     @FXML
